@@ -6,7 +6,7 @@
                                            <arg value="${basedir}" />
                                            <arg value="-b" />
                                            <arg value="C:\ICP\BarFileGenerated/${bar.name}" />
-                                           <arg value="-cleanBuild" />
+                                           <!-- <arg value="-cleanBuild" /> -->
                                            <arg value="-p" />
                                            <arg value="${application.name}" />
                                            <arg value="-a" />
